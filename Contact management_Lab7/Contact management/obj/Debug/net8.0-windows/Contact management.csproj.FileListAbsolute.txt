@@ -1,0 +1,16 @@
+C:\Users\duyh1\source\repos\Contact management\Contact management\obj\Debug\net8.0-windows\Contact_management.Form1.resources
+C:\Users\duyh1\source\repos\Contact management\Contact management\obj\Debug\net8.0-windows\Contact management.csproj.GenerateResource.cache
+C:\Users\duyh1\source\repos\Contact management\Contact management\obj\Debug\net8.0-windows\Contact management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duyh1\source\repos\Contact management\Contact management\obj\Debug\net8.0-windows\Contact management.AssemblyInfoInputs.cache
+C:\Users\duyh1\source\repos\Contact management\Contact management\obj\Debug\net8.0-windows\Contact management.AssemblyInfo.cs
+C:\Users\duyh1\source\repos\Contact management\Contact management\obj\Debug\net8.0-windows\Contact management.csproj.CoreCompileInputs.cache
+C:\Users\duyh1\source\repos\Contact management\Contact management\bin\Debug\net8.0-windows\Contact management.exe
+C:\Users\duyh1\source\repos\Contact management\Contact management\bin\Debug\net8.0-windows\Contact management.deps.json
+C:\Users\duyh1\source\repos\Contact management\Contact management\bin\Debug\net8.0-windows\Contact management.runtimeconfig.json
+C:\Users\duyh1\source\repos\Contact management\Contact management\bin\Debug\net8.0-windows\Contact management.dll
+C:\Users\duyh1\source\repos\Contact management\Contact management\bin\Debug\net8.0-windows\Contact management.pdb
+C:\Users\duyh1\source\repos\Contact management\Contact management\obj\Debug\net8.0-windows\Contact management.dll
+C:\Users\duyh1\source\repos\Contact management\Contact management\obj\Debug\net8.0-windows\refint\Contact management.dll
+C:\Users\duyh1\source\repos\Contact management\Contact management\obj\Debug\net8.0-windows\Contact management.pdb
+C:\Users\duyh1\source\repos\Contact management\Contact management\obj\Debug\net8.0-windows\Contact management.genruntimeconfig.cache
+C:\Users\duyh1\source\repos\Contact management\Contact management\obj\Debug\net8.0-windows\ref\Contact management.dll
